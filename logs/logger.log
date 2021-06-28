@@ -1,0 +1,39 @@
+2021-03-07 18:24:15 INFO  Main:13 - HELLO
+2021-03-07 18:26:51 INFO  Main:15 - HELLO2
+2021-03-07 18:46:51 INFO  Main:18 - Checking OS.....
+2021-03-07 18:47:32 INFO  Main:18 - Checking OS.....
+2021-03-07 18:47:32 INFO  Main:34 - OS type getting successfully
+2021-03-07 18:48:31 INFO  Main:18 - Checking OS.....
+2021-03-07 18:48:31 INFO  Main:39 - OSwindows 10
+2021-03-07 18:48:31 INFO  Main:34 - OS type getting successfully
+2021-03-07 18:48:31 INFO  Main:39 - OSwindows 10
+2021-03-07 18:49:40 INFO  Main:18 - Checking OS.....
+2021-03-07 18:49:40 INFO  Main:39 - OSwindows 10
+2021-03-07 18:49:40 INFO  Main:34 - OS type getting successfully
+2021-03-07 18:49:40 INFO  Main:39 - OSwindows 10
+2021-03-07 18:50:16 INFO  Main:18 - Checking OS.....
+2021-03-07 18:50:16 INFO  Main:39 - OSwindows 10
+2021-03-07 18:50:16 INFO  Main:34 - OS type getting successfully
+2021-03-07 19:02:20 INFO  Main:15 - Checking OS.....
+2021-03-07 19:02:20 INFO  Main:18 - Current OS type name - WINDOWS
+2021-03-07 19:08:39 INFO  Main:15 - Checking OS.....
+2021-03-07 19:08:39 INFO  Main:18 - Current OS type name - WINDOWS
+2021-03-07 19:08:39 INFO  Main:22 - Instance created successfully
+2021-03-07 19:11:30 INFO  Main:17 - Checking OS.....
+2021-03-07 19:11:30 INFO  Main:20 - Current OS type name - WINDOWS
+2021-03-07 19:11:30 INFO  Main:35 - OPEN CV4.5.1
+2021-03-07 19:11:30 INFO  Main:22 - Instance created successfully
+2021-03-07 19:17:04 INFO  Main:17 - Checking OS.....
+2021-03-07 19:17:04 INFO  Main:20 - Current OS type name - OTHER
+2021-03-07 19:17:31 INFO  Main:17 - Checking OS.....
+2021-03-07 19:17:31 INFO  Main:20 - Current OS type name - WINDOWS
+2021-03-07 19:17:31 INFO  Main:35 - OpenCV version4.5.1
+2021-03-07 19:17:31 INFO  Main:22 - Instance created successfully
+2021-03-07 19:18:01 INFO  Main:17 - Checking OS.....
+2021-03-07 19:18:01 INFO  Main:20 - Current OS type name - WINDOWS
+2021-03-07 19:18:01 INFO  Main:35 - OpenCV version4.5.1
+2021-03-07 19:18:01 DEBUG Main:22 - Instance created successfully
+2021-03-09 19:50:46 INFO  Main:17 - Checking OS.....
+2021-03-09 19:50:46 INFO  Main:20 - Current OS type name - WINDOWS
+2021-03-09 19:50:46 INFO  Main:35 - OpenCV version4.5.1
+2021-03-09 19:50:46 DEBUG Main:22 - Instance created successfully
